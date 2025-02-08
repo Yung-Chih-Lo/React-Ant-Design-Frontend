@@ -5,6 +5,7 @@ This project is a frontend web application built with React and Ant Design (Antd
 ## Features
 - User authentication (Login, Register, Forgot Password)
 - Theme customization with color switching
+  ![image](https://github.com/user-attachments/assets/1808bc1a-2be4-4aa7-ba2b-1859c9f460bb)
 - Responsive UI powered by Ant Design
 - Optimized development environment with modern React tooling
 
@@ -28,7 +29,7 @@ npm install
 npm run dev
 ```
 
-The application will be available at `http://localhost:5174/` by default.
+The application will be available at `http://localhost:5173/` by default.
 
 ## Project Structure
 ```plaintext
