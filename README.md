@@ -6,6 +6,7 @@ This project is a frontend web application built with React and Ant Design (Antd
 - User authentication (Login, Register, Forgot Password)
   ![image](https://github.com/user-attachments/assets/1808bc1a-2be4-4aa7-ba2b-1859c9f460bb)
 - Theme customization with color switching
+  ![image](https://github.com/user-attachments/assets/ae5764f8-9cd1-45ba-b80f-1935b9ccd152)
 - Responsive UI powered by Ant Design
 - Optimized development environment with modern React tooling
 
