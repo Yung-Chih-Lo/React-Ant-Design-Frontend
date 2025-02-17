@@ -16,8 +16,8 @@ To set up the project locally, follow these steps:
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Yung-Chih-Lo/React-Ant-Design-Frontend.git
+cd React-Ant-Design-Frontend
 ```
 
 ### 2. Install dependencies
